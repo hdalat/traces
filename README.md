@@ -1,1 +1,1 @@
-this will divert page using dimple and clean web url
+this will divert page using simple and clean web url
